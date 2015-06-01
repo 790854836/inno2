@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Innovate 2010</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="web_baidu">http://www.baidu.com/</string>
+    <string name="feeds_speakers">http://202.116.25.11/joj/upload/download/1959</string>
+    <string name="web_position">http://202.116.25.11/joj/upload/download/1961</string>
+
+</resources>
